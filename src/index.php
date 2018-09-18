@@ -6,6 +6,8 @@
 
     <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="./assets/css/custom.css">
+
+    <script src="./assets/js/bootstrap.min.js" charset="utf-8"></script>
   </head>
   <body>
     <div class="header">
