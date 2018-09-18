@@ -1,0 +1,5 @@
+Ik heb de hele scrum beschreven in 4 delen. Volgens de leerlijn moest het in 2 sprints, maar dit is bijna onmogelijk omdat het zo'n kleine
+opdracht is. Er is eigenlijk maar 1 definition of done te beschrijven in de opdracht, dus is er in principe ook maar 1 sprint. Ik heb het hierom dus ook gedaan
+in 1 sprint.
+
+Ik heb mijn tasks verdeeld in commits, elke commit is een task die gecomplete is of een stage verder is. Soms zitten 2 tasks in 1 commit.
